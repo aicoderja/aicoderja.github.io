@@ -1,0 +1,4 @@
+[submodule "gacha"]
+	path = gacha
+	url = https://github.com/aicoderja/gacha.git
+	branch = ja
